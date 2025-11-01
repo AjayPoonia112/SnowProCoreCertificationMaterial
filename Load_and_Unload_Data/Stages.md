@@ -39,6 +39,10 @@ They are **not data warehouses** but intermediate storage areas.
   - AWS S3
   - Google Cloud Storage
   - Azure Blob Storage
+- It is a Snowflake database object
+- Everyone with privileges can access it
+- Referred to with `@STAGE_NAME`
+- References external storage location
 - Created using:
 ```sql
 CREATE STAGE <stage_name>
