@@ -19,7 +19,7 @@ This repository contains **structured study material** for the **Snowflake SnowP
 
 ---
 
-## 📊 "Topic-wise Weightage"
+## 📊 Topic-wise Weightage
 
 | Domain                                      | Weight |
 |--------------------------------------------|--------|
@@ -32,7 +32,7 @@ This repository contains **structured study material** for the **Snowflake SnowP
 
 ---
 
-## 📚 "Repository Contents"
+## 📚 Repository Contents
 
 This repository contains **detailed descriptions** on each topic in a well-structured format:
 
