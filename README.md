@@ -23,12 +23,14 @@ This repository contains **structured study material** for the **Snowflake SnowP
 
 | Domain                                      | Weight |
 |--------------------------------------------|--------|
-| 1.0 Snowflake Data Cloud Features & Architecture | 25%    |
-| 2.0 Account Access and Security            | 20%    |
-| 3.0 Performance Concepts                   | 15%    |
-| 4.0 Data Loading and Unloading             | 10%    |
-| 5.0 Data Transformations                   | 20%    |
-| 6.0 Data Protection and Data Sharing       | 10%    |
+| 1.0 Snowflake Data Cloud Features & Architecture | 24%    |
+| 2.0 Account Access and Security            | 18%    |
+| 3.0 Performance Concepts                   | 16%    |
+| 4.0 Data Loading and Unloading             | 12%    |
+| 5.0 Data Transformations                   | 18%    |
+| 6.0 Data Protection and Data Sharing       | 12%    |
+
+**[Snow Pro Core Study Guide](https://learn.snowflake.com/en/certifications/snowpro-core/?pdf_name=SnowProCoreStudyGuide)**
 
 ---
 
