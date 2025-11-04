@@ -31,6 +31,7 @@ This repository contains **structured study material** for the **Snowflake SnowP
 | 6.0 Data Protection and Data Sharing       | 12%    |
 
 **[Snow Pro Core Study Guide](https://learn.snowflake.com/en/certifications/snowpro-core/?pdf_name=SnowProCoreStudyGuide)**
+
 **[Register for Certification](https://cp.certmetrics.com/snowflake/en/login)**
 
 ---
