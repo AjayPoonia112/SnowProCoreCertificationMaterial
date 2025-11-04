@@ -38,7 +38,7 @@ This repository contains **detailed descriptions** on each topic in a well-struc
 
 - 🔹 [Introduction](Introduction/Intro.md)
 - 🔹 [Snowflake Architecture](Snowflake_Architecture/)
-  * [Snowflake Introduction](Snowflake_Architecture/Snowflake_Architecture.md)
+  * [Snowflake Introduction](Snowflake_Architecture/Snowflake_Introduction.md)
   * [Multi-cluster Shared Disk](Snowflake_Architecture/Multi_Cluster_Shared_Disk.md)
   * [Architecture Layers](Snowflake_Architecture/Architecture_layers.md)
   * [Snowflake Editions](Snowflake_Architecture/Snowflake_Editions.md)
